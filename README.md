@@ -1,3 +1,5 @@
+※`bun init`時に作成されたもの
+
 # bun-lambda
 
 To install dependencies:
